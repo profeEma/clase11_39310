@@ -20,3 +20,4 @@ Esto hace que pasemos todo del working directory al staging area (2do estado)
 Instantaneamente recomendamos pasar todo al repo (3er estado). Para eso usamos el comando:
 git commit -m "comentario alusivo al trabajo que realizamos en codigo". 
 Al ejecutar este ultimo comando, se nos genera una version y nos posiciona automaticamente en el working directory para volver a empezar.
+Con el comando git status vamos corroborando el estado de nuestros archivos.
