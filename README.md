@@ -21,3 +21,4 @@ Instantaneamente recomendamos pasar todo al repo (3er estado). Para eso usamos e
 git commit -m "comentario alusivo al trabajo que realizamos en codigo". 
 Al ejecutar este ultimo comando, se nos genera una version y nos posiciona automaticamente en el working directory para volver a empezar.
 Con el comando git status vamos corroborando el estado de nuestros archivos.
+Con el comando git log vamos a listar todos los commits hechos previamente.
